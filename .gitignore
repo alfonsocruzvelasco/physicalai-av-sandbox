@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.ruff_cache/
+.mypy_cache/
+
+# Local-only secrets/config
+scripts/env.local.sh
+.env
+.env.*
+
+# Hugging Face / data / caches
+/workspace/
+/datasets/
+downloads/
+_hf_cache/
+
+# Reports: keep curated logs only (we'll whitelist)
+reports/*
+!reports/doctor.log
+!reports/download_sample.log
+!reports/download_one.log
+!reports/inspect_intrinsics_0000.log
+!reports/download_sensor_extrinsics_0000.log
+!reports/inspect_sensor_extrinsics_0000.log
