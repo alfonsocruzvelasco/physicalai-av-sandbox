@@ -51,7 +51,7 @@ This repo expects `scripts/env.local.sh` (ignored by git) defining:
 - `HF_HOME`             (optional)
 - `HF_HUB_CACHE`        (optional)
 
-Example:
+Sanity check:
 
 ```bash
 source scripts/env.local.sh
@@ -156,9 +156,14 @@ python -u scripts/check_egomotion_clip.py   --chunk 0000   --clip-id 25cd4769-5d
 
 ---
 
-## Commit README
+## Commit workflow
+
+After updating docs or scripts:
 
 ```bash
+python -m pytest -q
+git status
+
 git add README.md
 git commit -m "docs: polish README and workflows"
 git push
