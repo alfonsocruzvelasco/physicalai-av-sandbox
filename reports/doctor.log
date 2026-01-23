@@ -1,0 +1,7 @@
+PHYSICALAI_AV_ROOT: /workspace/datasets/physicalai-av
+HF_HOME: /workspace/datasets/physicalai-av/_hf_cache
+HF_HUB_CACHE: /workspace/datasets/physicalai-av/_hf_cache/hub
+OK writable: /workspace/datasets/physicalai-av
+OK writable: /workspace/datasets/physicalai-av/_hf_cache
+OK writable: /workspace/datasets/physicalai-av/_hf_cache/hub
+OK gated access: README.md size = 34096
