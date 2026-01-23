@@ -1,0 +1,5 @@
+TARGET_FILE: calibration/camera_intrinsics/camera_intrinsics.chunk_0001.parquet
+REMOTE_SIZE_BYTES: 43227
+MAX_BYTES: 104857600
+DOWNLOADED_TO: /workspace/datasets/physicalai-av/downloads/calibration/camera_intrinsics/camera_intrinsics.chunk_0001.parquet
+LOCAL_SIZE_BYTES: 43227
