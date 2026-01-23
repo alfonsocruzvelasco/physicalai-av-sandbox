@@ -1,0 +1,5 @@
+TARGET_FILE: calibration/sensor_extrinsics/sensor_extrinsics.chunk_0000.parquet
+REMOTE_SIZE_BYTES: 63782
+MAX_BYTES: 104857600
+DOWNLOADED_TO: /workspace/datasets/physicalai-av/downloads/calibration/sensor_extrinsics/sensor_extrinsics.chunk_0000.parquet
+LOCAL_SIZE_BYTES: 63782

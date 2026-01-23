@@ -1,0 +1,52 @@
+FILE: /workspace/datasets/physicalai-av/downloads/calibration/sensor_extrinsics/sensor_extrinsics.chunk_0000.parquet
+ROWS: 1700
+COLUMNS: 9
+SCHEMA:
+qx: double
+qy: double
+qz: double
+qw: double
+x: float
+y: float
+z: float
+clip_id: string
+sensor_name: string
+-- schema metadata --
+pandas: '{"index_columns": ["clip_id", "sensor_name"], "column_indexes": ' + 1201
+
+HEAD(5):
+                                                                      qx  ...         z
+clip_id                              sensor_name                          ...          
+25cd4769-5dcf-4b53-a351-bf2c5deb6124 camera_cross_left_120fov   0.694519  ...  0.897353
+                                     camera_cross_right_120fov  0.145307  ...  0.902528
+                                     camera_front_tele_30fov   -0.500810  ...  1.439972
+                                     camera_front_wide_120fov  -0.496812  ...  1.427480
+                                     camera_rear_left_70fov     0.612032  ...  0.901742
+
+[5 rows x 7 columns]
+FILE: /workspace/datasets/physicalai-av/downloads/calibration/sensor_extrinsics/sensor_extrinsics.chunk_0000.parquet
+ROWS: 1700
+COLUMNS: 9
+SCHEMA:
+qx: double
+qy: double
+qz: double
+qw: double
+x: float
+y: float
+z: float
+clip_id: string
+sensor_name: string
+-- schema metadata --
+pandas: '{"index_columns": ["clip_id", "sensor_name"], "column_indexes": ' + 1201
+
+HEAD(5):
+                                                                      qx  ...         z
+clip_id                              sensor_name                          ...          
+25cd4769-5dcf-4b53-a351-bf2c5deb6124 camera_cross_left_120fov   0.694519  ...  0.897353
+                                     camera_cross_right_120fov  0.145307  ...  0.902528
+                                     camera_front_tele_30fov   -0.500810  ...  1.439972
+                                     camera_front_wide_120fov  -0.496812  ...  1.427480
+                                     camera_rear_left_70fov     0.612032  ...  0.901742
+
+[5 rows x 7 columns]
