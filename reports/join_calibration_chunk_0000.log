@@ -1,0 +1,11 @@
+CHUNK: 0000
+INTR_ROWS: 700
+EXTR_ROWS: 1700
+JOIN_TOTAL: 700
+JOIN_MATCHED: 700
+JOIN_MISSING_EXTR_FOR_INTR: 0
+
+UNMATCHED_INTR_SENSOR_NAMES (sample):
+Empty DataFrame
+Columns: [clip_id, sensor_name]
+Index: []

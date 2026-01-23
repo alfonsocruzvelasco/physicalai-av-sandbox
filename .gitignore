@@ -25,3 +25,4 @@ reports/*
 !reports/inspect_intrinsics_0000.log
 !reports/download_sensor_extrinsics_0000.log
 !reports/inspect_sensor_extrinsics_0000.log
+!reports/join_calibration_chunk_0000.log
