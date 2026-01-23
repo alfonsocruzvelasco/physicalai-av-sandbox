@@ -30,3 +30,6 @@ reports/*
 !reports/inspect_egomotion_0000_zip.log
 !reports/inspect_egomotion_one.log
 !reports/check_egomotion_clip_25cd4769.log
+
+# accidental artifacts
+main
