@@ -1,9 +1,3 @@
-## 1) Add / edit `README.md`
-
-Create it if missing, or overwrite (this is a sandbox repo; clean rewrite is fine):
-
-````bash
-cat > README.md <<'MD'
 # physicalai-av-sandbox
 
 Sandbox utilities to **access, sanity-check, and prototype loaders** for the gated dataset:
