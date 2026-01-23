@@ -26,3 +26,7 @@ reports/*
 !reports/download_sensor_extrinsics_0000.log
 !reports/inspect_sensor_extrinsics_0000.log
 !reports/join_calibration_chunk_0000.log
+!reports/download_egomotion_0000.log
+!reports/inspect_egomotion_0000_zip.log
+!reports/inspect_egomotion_one.log
+!reports/check_egomotion_clip_25cd4769.log

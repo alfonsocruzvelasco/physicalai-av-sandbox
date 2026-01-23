@@ -1,0 +1,16 @@
+CHUNK: 0000
+CLIP_ID: 25cd4769-5dcf-4b53-a351-bf2c5deb6124
+EGO_ROWS: 2224
+EGO_COLS: 16
+EGO_COLUMNS: clip_id, timestamp, qx, qy, qz, qw, x, y, z, vx, vy, vz, ax, ay, az, curvature
+INTR_ROWS_FOR_CLIP: 7
+EXTR_ROWS_FOR_CLIP: 17
+EGO_HAS_NAN_COLS: 0
+TIME_COL_GUESS: timestamp
+TIME_MONOTONIC_INCREASING: True
+
+HEAD(3):
+                             clip_id  timestamp       qx       qy        qz       qw         x        y        z        vx        vy        vz        ax        ay        az  curvature
+25cd4769-5dcf-4b53-a351-bf2c5deb6124    -199719 0.012412 0.018968 -0.000458 0.999743 -2.337339 0.001941 0.092832 11.692703 -0.014373 -0.373754 -0.166560 -0.113598 -0.558699  -0.000469
+25cd4769-5dcf-4b53-a351-bf2c5deb6124    -189781 0.012268 0.019222 -0.000462 0.999740 -2.221117 0.001810 0.089009 11.693100 -0.015196 -0.384845 -0.112780 -0.022969 -0.362455  -0.000301
+25cd4769-5dcf-4b53-a351-bf2c5deb6124    -179731 0.012127 0.019469 -0.000456 0.999737 -2.103673 0.001659 0.085057 11.692643 -0.014357 -0.393327 -0.160376 -0.016572 -0.242481  -0.000164

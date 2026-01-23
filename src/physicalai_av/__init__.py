@@ -1,1 +1,1 @@
-__all__ = ["intrinsics", "extrinsics"]
+__all__ = ["intrinsics", "extrinsics", "egomotion"]

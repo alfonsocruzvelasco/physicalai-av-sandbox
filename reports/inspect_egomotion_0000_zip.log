@@ -1,0 +1,56 @@
+FILE: /workspace/datasets/physicalai-av/downloads/labels/egomotion/egomotion.chunk_0000.zip
+ENTRIES: 100
+TOTAL_UNCOMPRESSED_BYTES: 36768572
+TOTAL_COMPRESSED_BYTES: 36768572
+
+HEAD_ENTRIES:
+001        315697        315697  25cd4769-5dcf-4b53-a351-bf2c5deb6124.egomotion.parquet
+002        285998        285998  2edf278f-d5e3-4b83-b5df-923a04335725.egomotion.parquet
+003        373217        373217  eed514a0-a366-4550-b9bd-4c296c531511.egomotion.parquet
+004        295340        295340  ecafce84-447d-43a6-aff1-b385fbc71f15.egomotion.parquet
+005        365920        365920  1f47bf7f-d233-480c-b166-7512d8e9ac97.egomotion.parquet
+006        277097        277097  c6915a10-9f22-464d-a422-15b8960a57d7.egomotion.parquet
+007        375255        375255  ea5c5be6-5e18-4489-9784-8f73860f887b.egomotion.parquet
+008        348367        348367  1fcf2fef-279b-4490-adc6-9b7d1ff0118d.egomotion.parquet
+009        361290        361290  ef4264ed-0fd2-4a64-9831-87e1aae28407.egomotion.parquet
+010        696752        696752  30f3d243-f26e-43f9-a63a-ac5d1b115d15.egomotion.parquet
+011        390031        390031  dd1b6121-dec2-4163-adde-b3f09f0a66d8.egomotion.parquet
+012        288414        288414  04c5a3f4-7d2f-499a-ba05-b57194594735.egomotion.parquet
+013        432510        432510  2a48843a-2eed-4c21-94c2-1de716605b7d.egomotion.parquet
+014        322365        322365  5f49a077-0d7d-4c7d-9c53-520fb353ead2.egomotion.parquet
+015        340548        340548  0dd3eb7f-47a1-40d5-a228-d06ea1288839.egomotion.parquet
+016        366880        366880  808039e3-5efb-4cc2-b845-93c65b99ddf8.egomotion.parquet
+017        461831        461831  6e17da60-efe0-4cc2-803e-ee82975a784b.egomotion.parquet
+018        362851        362851  d81becb2-5333-4808-a01e-14ce2f2f1027.egomotion.parquet
+019        373094        373094  b9b4ddc7-feb0-4749-9d14-931a70fe3e17.egomotion.parquet
+020        399992        399992  1e8f7dcf-2a12-4fdd-b73a-2e414f239c1a.egomotion.parquet
+021        445030        445030  49d2a3f1-de77-41c4-9ca5-6c997e9fc129.egomotion.parquet
+022        271787        271787  86de1c0c-e9cd-44ef-aad2-211c6b8a00da.egomotion.parquet
+023        447336        447336  dea8d46d-f228-4a21-969e-4a59daf8a981.egomotion.parquet
+024        347475        347475  259b1529-0d28-4ea5-b822-d8691e91f062.egomotion.parquet
+025        321192        321192  402fdeb6-f078-44af-a9b3-79bfa15961a1.egomotion.parquet
+026        291943        291943  73e0cb9f-6469-4768-b3a3-4f892c827b0d.egomotion.parquet
+027        321440        321440  edd12c03-09d5-4f0d-bf6c-0025b4a9b56f.egomotion.parquet
+028        286918        286918  79b9252b-a96a-4f43-bdc7-05ebd184d174.egomotion.parquet
+029        503485        503485  5c8a7587-d850-474c-b297-7a633d0538d1.egomotion.parquet
+030        306391        306391  4db63321-8ec2-41ae-b9af-1743325bff91.egomotion.parquet
+031        347041        347041  76f4a312-4b5a-4bce-8499-b249ae70d0a0.egomotion.parquet
+032        324444        324444  37c25a1d-15a1-417e-9364-a6305a166423.egomotion.parquet
+033        300462        300462  43c43f34-dad1-4357-bd23-dafc954ae4f0.egomotion.parquet
+034        380051        380051  69dfea29-acfa-4499-be99-53d06631ffb0.egomotion.parquet
+035        356325        356325  058bf960-f531-4ae6-8b24-455d7683676e.egomotion.parquet
+036        380800        380800  7555abef-c163-4263-b49e-31e773a4faef.egomotion.parquet
+037        366938        366938  038678de-6307-4cd2-a3c9-5d64e1fb8862.egomotion.parquet
+038        448439        448439  775ca1cd-4804-4d07-bff8-5b817ee0a65f.egomotion.parquet
+039        284270        284270  95ad1d0a-7713-4899-91dd-08176123823f.egomotion.parquet
+040        400402        400402  4d7920f8-98f1-4b48-95e0-e0296fd593fc.egomotion.parquet
+041        375211        375211  7bf7e1fe-341f-4325-a01a-5493bc9ca8c5.egomotion.parquet
+042        613515        613515  db2c5fbe-1903-4b8e-8df3-a7d02cff1893.egomotion.parquet
+043        278668        278668  e030ea33-9d21-4e8d-9a1a-1d7a8d4f41a1.egomotion.parquet
+044        351787        351787  632e0c2c-19a4-4b9a-b684-f014c4aff51f.egomotion.parquet
+045        441184        441184  78e29f63-96dd-4112-9c14-e3e9777cec90.egomotion.parquet
+046        375013        375013  0a948f59-0a06-41a2-8e20-ac3a39ff4d61.egomotion.parquet
+047        357739        357739  daa2f43c-d32a-438b-9a1a-58a2f1d3106c.egomotion.parquet
+048        377347        377347  8d669f31-90e7-4828-a99b-264bf6dedd14.egomotion.parquet
+049        350499        350499  dc257402-687c-4a34-a950-8bb6a3c2508d.egomotion.parquet
+050        307186        307186  46003675-4b4e-4c0f-ae54-3f7622bddf6a.egomotion.parquet
